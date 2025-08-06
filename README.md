@@ -35,10 +35,10 @@ In distributed systems, managing authentication across multiple services can be 
 The following diagrams provide a visual overview of the service architecture and the system in action:
 
 ### Distributed System Authentication Flow
-![Distributed System Authentication Flow](./distroauth/Diagrams/architecture1.jpg)
+![Distributed System Authentication Flow](./Diagrams/architecture.jpg)
 
 ### JWT Issuer Internal Flow
-![JWT Issuer Internal Flow](./distroauth/Diagrams/architecture2.jpg)
+![JWT Issuer Internal Flow](./Diagrams/inAction.jpg)
 
 
 ## Endpoints
