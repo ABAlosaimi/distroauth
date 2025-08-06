@@ -39,7 +39,7 @@ The following diagrams provide a visual overview of the service architecture and
 ![Distributed System Authentication Flow](./Diagrams/architecture.JPG)
 
 ### JWT Issuer Internal Flow
-![JWT Issuer Internal Flow](./Diagrams/inAction.jpg)
+![JWT Issuer Internal Flow](./Diagrams/inAction.JPG)
 
 
 ## Endpoints
