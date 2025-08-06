@@ -2,7 +2,6 @@ package com.ditroauth.distroauth.keyfilter;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-
 import org.springframework.http.MediaType;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
